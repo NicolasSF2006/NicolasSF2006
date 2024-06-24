@@ -1,3 +1,6 @@
+<h1>👋Olá, bem vindo!</h1>
+<p>Sou o Nicolas e estou cursando o ensino médio, mas também trabalho como freelancer. Veja meus códigos!</p>
+
 [![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasSF2006&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"> <br>
